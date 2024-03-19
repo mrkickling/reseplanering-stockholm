@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  python:
+    build:
+      dockerfile: Dockerfile.python
+    environment:
+      - SL_RESEPLANERARE_API_KEY=${SL_RESEPLANERARE_API_KEY}
+    volumes:
+      - ./src/python:/usr/src/app
