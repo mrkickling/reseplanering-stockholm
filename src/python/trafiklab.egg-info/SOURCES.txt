@@ -1,7 +1,0 @@
-pyproject.toml
-trafiklab/__init__.py
-trafiklab.egg-info/PKG-INFO
-trafiklab.egg-info/SOURCES.txt
-trafiklab.egg-info/dependency_links.txt
-trafiklab.egg-info/top_level.txt
-trafiklab/apis/sl_reseplanerare_3_1.py
